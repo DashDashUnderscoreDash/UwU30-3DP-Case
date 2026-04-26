@@ -14,7 +14,7 @@ UwU30 is a 10.75u QAZ style keyboard
 ```
 
 ### Layout options
-![Layout options](https://github.com/DashDashUnderscoreDash/TEAQAZ-PCB/blob/main/Images/TEAQAZ%20KLC.jpg)
+![Layout options](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Images/KLE.png?raw=true)
 
 
 ### There are 2 options available for this case:
@@ -22,10 +22,10 @@ UwU30 is a 10.75u QAZ style keyboard
 2. A more complex version which has multicolor and requires many supports. Using something like Bambu's PLA support material as the interface layer is HIGHLY encouraged
 
 ### Case front
-![Case front](https://github.com/DashDashUnderscoreDash/TEAQAZ-PCB/blob/main/Images/TEAQAZ%20KLC.jpg)
+![Case front](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Images/UwU30%20Front.png?raw=true)
 
 ### Case rear
-![Case rear](https://github.com/DashDashUnderscoreDash/TEAQAZ-PCB/blob/main/Images/TEAQAZ%20PCB%20Front.jpg)
+![Case rear](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Images/UwU30%20Rear.png?raw=true)
 
 ### Badge
-![Badge](https://github.com/DashDashUnderscoreDash/TEAQAZ-PCB/blob/main/Images/TEAQAZ%20PCB%20Front.jpg)
+![Badge](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Images/UwU30%20Badge.png?raw=true)
