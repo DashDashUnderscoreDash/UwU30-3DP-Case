@@ -16,3 +16,4 @@
 - I am still new to case design so there may be small issues/less than ideal design choices
 - For the more complex multicolor version, the sections to make other colors may be a bit hard to select and paint in Bambu Studio, but it is possible
 - The thick plate is for both case designs
+- The badge stays in with press fit on my case, but you may need a bit of glue to ensure it stays in place
