@@ -10,6 +10,8 @@
 - [8 M3 heatset inserts](https://a.co/d/09Gc49wN)
 - [6 SKUF feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
 - [4 tadpoles](https://saberkeebs.com/products/geon-tadpoles) *50a is my favorite and what I suggest everyone uses*
+- [8 wheel weights](https://a.co/d/0fBJ8V8U)
+- *Optional* - [Battery](https://a.co/d/0agJVKsO) - I have not tried this battery yet, but it *should* fit
 
 ### Notes
 - I have put a 0.25mm slit around most of the perimiter of the case. I did this to make it so hull lines will not develop and the print will look best
