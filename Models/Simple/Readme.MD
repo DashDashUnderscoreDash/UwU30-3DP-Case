@@ -15,6 +15,6 @@
 ![Simple badge](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Models/Simple/Images/Badge%20-%20Simple.jpg?raw=true)
 - I have removed the lip on the bottom of the top case making it much easier to print
 ![Simple top](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Models/Simple/Images/Case%20Top%20-%20Simple.jpg?raw=true)
-![Simple top less supports]()
+![Simple top less supports](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Models/Simple/Images/Case%20Top%20Support%20-%20Simple.jpg?raw=true)
 - Changed AMS base to be engraved to allow single color printing
 ![Simple bottom](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Models/Simple/Images/Case%20Bottom%20-%20Simple.jpg?raw=true)
