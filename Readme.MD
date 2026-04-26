@@ -2,8 +2,6 @@
 
 UwU30 is a 10.75u QAZ style keyboard
 
-I am still new to designing cases
-
 [Link to old Geekhack GB thread](https://geekhack.org/index.php?topic=120117.0)
 
 [PCBs available here from Sei](https://www.amyni-kb.com/product/uwu30-pcb)
