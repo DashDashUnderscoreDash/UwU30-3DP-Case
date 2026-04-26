@@ -17,4 +17,4 @@
 ![Simple top]()
 ![Simple top less supports]()
 - Changed AMS base to be engraved to allow single color printing
-![Simple bottom]()
+![Simple bottom](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Models/Simple/Images/Case%20Bottom%20-%20Simple.jpg?raw=true)
