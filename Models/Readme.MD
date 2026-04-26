@@ -7,10 +7,10 @@
 
 ### For hardware you will need:
 ```
-- [8 M3x6 screws](https://a.co/d/03mqxs5H)
-- [8 M3 heatset inserts](https://a.co/d/09Gc49wN)
-- [6 SKUF feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
-- [4 tadpoles](https://saberkeebs.com/products/geon-tadpoles)
+[8 M3x6 screws](https://a.co/d/03mqxs5H)
+[8 M3 heatset inserts](https://a.co/d/09Gc49wN)
+[6 SKUF feet](https://keeb.io/products/skuf-silicone-rubber-keyboard-feet)
+[4 tadpoles](https://saberkeebs.com/products/geon-tadpoles)
 ```
 
 ### Notes
