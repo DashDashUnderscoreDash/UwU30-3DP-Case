@@ -11,7 +11,7 @@
 
 
 ### Differences from complex version
-- Changed multi body badge into an engraved version so it can be printed in 1 color
+- Changed multimaterial badge into an engraved version so it can be printed in 1 color
 ![Simple badge](https://github.com/DashDashUnderscoreDash/UwU30-3DP-Case/blob/main/Models/Simple/Images/Badge%20-%20Simple.jpg?raw=true)
 - I have removed the lip on the bottom of the top case making it much easier to print
 ![Simple top]()
